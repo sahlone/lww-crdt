@@ -1,6 +1,9 @@
 # java-crdt
 
-Collection of LWW CRDTs for Java.
+- The implementation was written in simpleset form based on the implementation
+of `roshi` project by Soundcloud. 
+` https://github.com/soundcloud/roshi `
+- Collection of LWW CRDTs for Java.
 
 ### CRDT Sets
 
